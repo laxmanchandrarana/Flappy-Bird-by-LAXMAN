@@ -12,7 +12,7 @@ GROUNDY = SCREENHEIGHT * 0.8
 GAME_SPRITES = {}
 GAME_SOUNDS = {}
 PLAYER = 'gallery/sprites/bird.png'
-BACKGROUND = 'gallery/sprites/background.png'
+BACKGROUND = 'gallery/sprites/background2.jpg'
 PIPE = 'gallery/sprites/pipe.png'
 
 def welcomeScreen():
